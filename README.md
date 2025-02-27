@@ -49,7 +49,7 @@ This is a simple and interactive web application that allows user to generate gr
 
 The project is deployed on vercel, a platform known for its fast and easy deployment of web applications
 
-Live Demo: 
+Live Demo: [Background-Generator-app](https://background-generator-app-six.vercel.app/)
 
 ## License
 

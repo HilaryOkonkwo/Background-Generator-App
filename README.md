@@ -25,10 +25,15 @@ This is a simple and interactive web application that allows user to generate gr
 ## Project Structure
 
   Background-Generator-App/
+
     |--index.html
+
     |--LICENSE
+
     |--README.md
+
     |--script.js
+
     |--styles.css
 
 ## Installation and Setup
@@ -37,7 +42,7 @@ This is a simple and interactive web application that allows user to generate gr
 
  1. Clone the repository:
 
-   git clone https://github.com/HilaryOkonkwo/Background-Generator-App.git
+     git clone https://github.com/HilaryOkonkwo/Background-Generator-App.git
 
  2. Navigate to the project folder:
     
